@@ -24,6 +24,7 @@ dependencies:
 - hspec
 - hashmap
 - hashable
+- monad-loops
 
 library:
   source-dirs: src
